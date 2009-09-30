@@ -1,0 +1,10 @@
+Thumbs.db
+.DS_Store
+.project
+.actionScriptProperties
+.flexProperties
+.flexLibProperties
+.settings
+bin
+bin-debug
+html-template
